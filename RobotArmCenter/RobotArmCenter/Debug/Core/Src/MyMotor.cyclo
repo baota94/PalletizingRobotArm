@@ -1,0 +1,6 @@
+../Core/Src/MyMotor.c:5:6:MyMotor_Init	1
+../Core/Src/MyMotor.c:21:6:MyMotor_Start	1
+../Core/Src/MyMotor.c:25:6:MyMotor_Stop	1
+../Core/Src/MyMotor.c:29:6:MyMotor_Brake	1
+../Core/Src/MyMotor.c:36:6:MyMotor_SetSpeed	6
+../Core/Src/MyMotor.c:41:6:MyMotor_SetDirection	1

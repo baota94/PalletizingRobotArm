@@ -1,0 +1,11 @@
+../Core/Src/MyRobot.c:4:6:Robot_Init	2
+../Core/Src/MyRobot.c:19:6:Robot_ForwardKinematics	2
+../Core/Src/MyRobot.c:52:6:Robot_InverseKinematics	7
+../Core/Src/MyRobot.c:90:6:Robot_Process	6
+../Core/Src/MyRobot.c:136:6:Robot_Reset	2
+../Core/Src/MyRobot.c:149:6:Robot_Stop	2
+../Core/Src/MyRobot.c:155:6:Robot_Start	1
+../Core/Src/MyRobot.c:158:6:Robot_DeInit	1
+../Core/Src/MyRobot.c:166:6:Robot_Run	7
+../Core/Src/MyRobot.c:193:6:Robot_SetPulse	4
+../Core/Src/MyRobot.c:205:6:Robot_RunPath	6
