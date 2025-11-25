@@ -1,0 +1,3 @@
+C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\RobotArmControl_Ver2\x64\Debug\RobotArmControl_Ver2.vcxproj.AssemblyReference.cache
+C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\RobotArmControl_Ver2\x64\Debug\RobotArmControlVer2.MyForm.resources
+C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\RobotArmControl_Ver2\x64\Debug\RobotArmControl_Ver2.vcxproj.GenerateResource.cache

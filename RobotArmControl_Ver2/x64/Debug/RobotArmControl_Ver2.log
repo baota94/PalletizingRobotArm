@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\RobotArmControl_Ver2\MyForm.h(1038,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\RobotArmControl_Ver2\MyForm.h(1406,121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\RobotArmControl_Ver2\MyForm.h(1407,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\RobotArmControl_Ver2\MyForm.h(1407,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\RobotArmControl_Ver2\MyForm.cpp(6,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(113,1): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(113,1): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(511,1): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(511,1): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\fast_math.hpp(327,1): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+C:\opencv\build\include\opencv2\core\fast_math.hpp(327,1): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\fast_math.hpp(328,1): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+C:\opencv\build\include\opencv2\core\fast_math.hpp(328,1): warning C4793: 	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RobotArmControl_Ver2.vcxproj -> C:\Users\NguyenBao\OneDrive\Desktop\LuanVan_Ver5\App Dieu Khien\RobotArmControl_Ver2\x64\Debug\RobotArmControl_Ver2.exe
