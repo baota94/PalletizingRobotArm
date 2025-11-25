@@ -1,0 +1,2 @@
+#define _RUN_ROBOT_ _RUNROBOT_
+#define _LISTEN_PORT_ 12345
